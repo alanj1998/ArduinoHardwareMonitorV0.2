@@ -1,0 +1,60 @@
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.Cache
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Documents\GitHub\firstrepo\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\TembooSDK.dll
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\TembooSDK.dll
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csprojResolveAssemblyReference.cache
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.Cache
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+D:\College\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\bin\Debug\TembooSDK.dll
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+C:\Users\Mama\Desktop\ArduinoHardwareMonitor\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.Cache
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csprojResolveAssemblyReference.cache
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.Cache
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+C:\Users\Mama\Desktop\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.Cache
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe.config
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.exe
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.pdb
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.exe
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\bin\Debug\ArduinoHardwareMonitor.pdb
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csprojResolveAssemblyReference.cache
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Form1.resources
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.Properties.Resources.resources
+E:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Debug\ArduinoHardwareMonitor.csproj.GenerateResource.Cache

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PC Control Center</title>
+        <meta name="viewport" content="width=device-width, initial-scale = 1.0">
+        <meta charset="UTF-8">
+        <meta name="author" content="Alan Jachimczak(C)">
+        
+        <!-- Stopping the website from caching so that every refresh 
+            loads a clean wesbite 
+        -->
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+        <meta http-equiv="Pragma" content="no-cache"/>
+        <meta http-equiv="Expires" content="0"/>
+        
+        
+        <link type="text/css" rel="stylesheet" href="Styles/styles.css">
+        
+        <!-- Linking to the javascript -->
+        <script type="text/javascript" src="Scripts/script.js"></script>
+        <script type="text/javascript">
+            //Thanks for help from stackoverflow.com users!! Especially for the AJAX request!
+            var data = [];
+            setInterval(GetTime, 500);
+            setInterval(DataAssigning, 300);
+        </script>
+
+    </head>
+    
+    <body onload="DataAssigning();GetTime();">
+            <div id="disconnectModalBox" class="modal">
+                <div id="inner" class="modal">
+                    <center>
+                    <h1>The device is Disconnected!</h1>
+                    <h2>It looks like the device is disconnected from the server.</h2>
+                    <p>Make sure that the Arduino is properly connected to your PC and that you have pressed "Connect" in the ArduinoHardwareMonitor software and that you checked the "Use the Local Server to Update and Use the Email Service" option!</p>
+                    </center>
+                </div>
+            </div>
+        <section id="main">
+            <span id="cpuLoadLbl" class="loadLbl transformed"></span> 
+            <div class="spin transformed" id="cpuLoad"></div>
+            
+            <div class="spin transformed" id="ramLoad"></div>
+            <span id="ramLoadLbl" class="loadLbl transformed"></span>
+            
+            <div id="hddLeft" class="spin transformed"></div>
+            <span class="loadLbl transformed" id="hddLeftLbl"></span>
+            
+            <span id="circle" class="transformed"></span>
+            <progress value="4.8" max="100" id="cpuTemp" class="transformed"></progress>
+            <span class="loadLbl transformed" id="cpuTempLbl"></span>
+            
+            <span id="cpuName" class="name transformed"></span>
+            <span id="ramName" class="name transformed"></span>
+            <span id="time" class="transformed"></span>
+            
+            <img src="Images/fire.png" width="100px" id="fire" class="transformed">
+        </section>
+        <header></header>
+        <nav></nav>
+        
+        
+    </body>
+</html>

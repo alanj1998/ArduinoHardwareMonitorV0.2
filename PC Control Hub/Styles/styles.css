@@ -1,0 +1,163 @@
+body {
+    width: 100%;
+    background-image: url(../Images/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.spin {
+    position: relative;
+    left: 274px;
+    top: 345px;
+    width: 10px;
+    height: 200px;
+    background-color: darkred;
+    -webkit-transform: rotate(-134deg);
+    transform: rotate(-134deg);
+    -webkit-transform-origin: 50% 197px;
+    transform-origin: 50% 197px;
+    transition: 2s ease;
+    z-index: 1;
+}
+
+progress::-webkit-progress-value {
+    background-color: darkred;
+    border-radius: 0px 0px 0px 0px;
+    transition: 1s ease;
+}
+
+progress::-webkit-progress-bar {
+    background-color: gainsboro;
+    border-radius: 0px 10px 10px 0px;
+}
+
+#ramLoad {
+    left: 1067px;
+    top: 140px;
+}
+
+#hddLeft{
+    left: 755px; 
+    top: -218px; 
+    transform: rotate(0deg);
+    height: 40px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transform-origin: 10% 182px;
+    transform-origin: 10% 182px;
+}
+
+.loadLbl {
+    top: 593px;
+    height: 20px;
+    position: absolute;
+    left: 205px;
+    font-size: 21px;
+    color: black;
+    font-family: serif;
+    transition: 2s ease;
+    width: 250px;
+}
+#cpuTemp {
+    position: relative;
+    left: 144px;
+    top: -156px;
+    height: 30px;
+    width: 25%;
+    border-radius: 0px 10px 10px 0px;
+    transition: 1s ease;
+}
+
+#circle {
+    height: 50px;
+    width: 50px;
+    -webkit-border-radius: 25px;
+    border-radius: 25px;
+    background: darkred;
+    top: 280px;
+    left: 120px;
+    border: 1px solid black;
+    position: absolute;
+}
+
+.name {
+    position: relative;
+    top: -423px;  
+    left: -65px;
+    font-size: 20px;
+}
+
+#time {
+    position: absolute;
+    top: 95px;
+    font: 20px black;
+    font-style: italic;
+    left: 440px;
+}
+
+#fire {
+    position: absolute;
+    top: 510px;
+    left: 637px;
+    transition: 3s ease;
+    width: 80px;
+}
+
+#ramLoadLbl {
+    left: 995px;
+}
+
+#hddLeftLbl {
+    top:380px;
+    left:605px;
+}
+
+#cpuTempLbl {
+    top:325px; 
+    left:270px;
+}
+
+#ramName {
+    top:-384px;
+    left:-234px;
+}
+
+.modal {
+    position: fixed;
+    top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+    background-color: rgba(0,0,0,0.9);
+    pointer-events: none;
+    z-index: 100000;
+    color: white;
+    display: none;
+}
+
+.modal h1 {
+    background-color: darkred;
+    opacity: 0.9;
+}
+
+.modal h2 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#mainbox {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.9);
+}
+
+#inner {
+    width: 50%;
+    height: 35%;
+    background-color: rgba(0,0,0,0.4);
+    top: 25%;
+    left: 25%;
+}
+
+#inner p {
+    padding: 10px;
+}

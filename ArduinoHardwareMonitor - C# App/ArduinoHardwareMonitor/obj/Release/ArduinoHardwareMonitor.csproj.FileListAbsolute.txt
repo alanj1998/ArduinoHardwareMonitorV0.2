@@ -1,0 +1,3 @@
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Release\ArduinoHardwareMonitor.Form1.resources
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Release\ArduinoHardwareMonitor.Properties.Resources.resources
+D:\Arduino Hardware Monitor V0.2\ArduinoHardwareMonitor - C# App\ArduinoHardwareMonitor\obj\Release\ArduinoHardwareMonitor.csproj.GenerateResource.Cache
