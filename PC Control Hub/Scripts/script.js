@@ -1,20 +1,17 @@
-function ProcessData() {
-    var response = getFile();
-    data = response.split(','); 
-}  
-            
-function getFile() {
+function GetFile() {
                 var requestFile = new XMLHttpRequest();  
                 var string;
-                requestFile.open("GET", "http://localhost/pcData.txt", false);
-                requestFile.send();
-                if (requestFile.status === 200) {      
-                    return requestFile.responseText;
-                }                   
+                requestFile.onreadystatechange = function() {
+                    if (this.readyState == 4 && this.status == 200) {
+                            data = requestFile.responseText.split(',');
+                        }
+                    };
+                requestFile.open("GET", "http://localhost/pcData.txt", true);
+                requestFile.send();              
             }    
             
 function DataAssigning() {
-     ProcessData();
+     GetFile();
                 
      if (String(data[1]) == "DIS") {
          //Set Temperature
